@@ -1,3 +1,3 @@
 # hello-world
 
-Joan's 1st Attempt at Github
+Joan likes to play tennis and walk her dogs.
